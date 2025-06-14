@@ -1,0 +1,12 @@
+Simulated Annealing: N = 10
+{'success': True, 'solution': [6, 3, 5, 7, 9, 0, 2, 4, 1, 8], 'conflicts': 0, 'time_taken': 0.02}
+
+Simulated Annealing: N = 30
+{'success': True, 'solution': [9, 18, 26, 4, 17, 19, 8, 15, 24, 28, 25, 7, 1, 3, 11, 14, 20, 27, 23, 12, 6, 2, 29, 10, 16, 13, 21, 0, 22, 5], 'conflicts': 0, 'time_taken': 0.52}
+
+
+Simulated Annealing: N = 50
+{'success': True, 'solution': [47, 17, 36, 25, 21, 15, 24, 26, 31, 6, 45, 37, 12, 33, 3, 42, 19, 46, 9, 32, 29, 2, 20, 48, 28, 11, 0, 41, 4, 35, 7, 13, 27, 1, 49, 10, 5, 44, 22, 40, 18, 43, 34, 23, 38, 8, 39, 30, 14, 16], 'conflicts': 0, 'time_taken': 9.27}
+
+Simulated Annealing: N = 100
+{'success': False, 'solution': None, 'conflicts': 3, 'time_taken': 231.36}
