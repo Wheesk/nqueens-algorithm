@@ -36,9 +36,6 @@ The PDF report includes:
 
 **Wheesk**
 
-## 📜 License
-
-This project is open-source under the MIT License.
 
 ## 💬 How to Run
 
