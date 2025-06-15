@@ -21,24 +21,6 @@ This project implements and compares four different algorithmic approaches to so
 
 Measured runtime, conflicts, and success status for each algorithm.
 
-## 📁 Project Structure
-
-```
-📂 NQueens-Algorithms/
-├── dfs_nqueens.py
-├── hillclimbing_nqueens.py
-├── simulatedannealing_nqueens.py
-├── geneticalgorithm_nqueens.py
-├── results/
-│   ├── bfs_nqueens.txt
-│   ├── hillclimbing_nqueens.txt
-│   ├── simulatedanneling.txt
-│   └── geneticalgorithm.txt
-├── report/
-│   ├── nqueens_report.pdf
-│   ├── nqueens_runtime_comparison.png
-│   └── main.tex
-```
 
 ## 📖 Report
 
@@ -52,7 +34,7 @@ The PDF report includes:
 
 ## 👨‍💻 Author
 
-**Sardor Samandarov**
+**Wheesk**
 
 ## 📜 License
 
